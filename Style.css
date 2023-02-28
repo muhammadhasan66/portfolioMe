@@ -1,0 +1,289 @@
+body{
+    background: rgb(77, 74, 74); 
+    font-family:Roboto;
+}
+
+/*.div1{
+    position: relative;
+    left: 50px;
+    size: 48px;
+}*/
+
+.navbar {
+    width: 100%;
+    overflow: auto;
+  }
+  .navbar a {
+    float: left;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 8%;
+    position:relative;
+    left: 200px;
+  }
+
+  .im{
+    position: relative;
+    left: 200px;
+    top: 40px;
+    color: white;
+    
+  }
+  #myname{
+    position: relative;
+    left: 200px;
+    color: white;
+    font-size: 40px;
+  }
+  .span2{
+    text-decoration: underline;
+    
+    text-underline-offset: 12px;
+    text-decoration-color: orange;
+  }
+  .para1{
+    position:relative;
+    left: 800px;
+    top: -100px;
+    color: white;
+    line-height: 20px;
+  }
+.services{
+    color: gray;
+    line-height: 10px;
+    position: relative;
+    top: -7px;
+}
+.showmore{
+    color:orange;
+    position: inherit;
+    top: 5px;
+}
+.dot{
+  height: 250px;
+  width: 250px;
+  background-color: rgb(44, 44, 44);
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  left: 470px;
+  top: -180px
+}
+
+.myimg{
+    position:relative;
+    width: 230px; height: 250px;
+    left: 237px;
+    top: -220px;
+}
+
+
+.freelance{
+    position: relative;
+    left: 200px; color:white;
+    top: -650px;
+}
+  
+.icons>img{
+    width: 16px;height: 16px;
+    position: relative;
+      left: 798px;
+      top: -764px;
+      margin: 8px;
+    }
+
+.iconbg>span{
+    height: 27px;
+  width: 27px;
+  background-color: rgb(44, 44, 44);
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  left: 800px;
+  top: -730px;
+  margin: 2px;
+ 
+}
+
+.logo1{
+    width: 65px; height: 18px;
+background-color: black;
+padding: 3px;
+}
+.logo2{
+    width: 65px; height: 18px;
+    background-color: black;
+    padding: 3px;
+}
+.logo3{
+    width: 65px; height: 18px;
+    background-color: black;
+    padding: 3px;
+}
+.logo4{
+    width: 65px; height: 18px;
+    background-color: black;
+     padding: 3px;
+  
+}
+
+.logos{
+    position:relative;
+left: 340px; top: -660px;
+display: inline-block;
+word-spacing: 50px;
+background-color: rgb(43, 43, 43);
+-webkit-box-shadow: 0 0 5px 2px rgb(0, 0, 0);
+    -moz-box-shadow: 0 0 5px 2px rgb(0, 0, 0);
+    box-shadow: 0 0 5px 2px rgb(0, 0, 0);
+padding: 10px;
+height: 20px;
+}
+
+.what{
+    font-size: xx-large;
+    position: relative;
+    color: white;
+    left: 200px;
+    top: -630px;
+}
+
+.its{
+    position: relative;
+    color: white;
+    left: 200px;
+    top: -650px;
+}
+
+
+.project{
+    color: white;
+    position:relative;
+    left: 200px;
+    top: -650px;
+}
+.twof{
+    font-size: x-large;
+    color:orange;
+    position:relative;
+    left: 200px;
+    top: -650px;
+}
+
+.contract{
+    color: white;
+    position:relative;
+    left: 200px;
+    top: -630px;
+}
+.thirty{
+    font-size: x-large;
+    color:orange;
+    position:relative;
+    left: 200px;
+    top: -630px;
+}
+
+
+
+.comunity{
+    color: white;
+    position:relative;
+    left: 200px;
+    top: -630px;
+}
+.hundred{
+    font-size: x-large;
+    color:orange;
+    position:relative;
+    left: 200px;
+    top: -630px;
+}
+
+.year{
+    color: white;
+    position:relative;
+    left: 200px;
+    top: -630px;
+}
+
+.ten{
+    font-size: x-large;
+    color:orange;
+     position:relative;
+    left: 200px;
+    top: -630px; 
+}
+
+#one{
+display: inline-block;
+position:relative;
+left: 250px;
+top: -112px;
+}
+
+#two{
+    display: inline-block;
+    position:relative;
+    left: 140px;
+    top: -45px;
+    }
+
+    .img1{
+        width: 140px; height: 90;
+         position:relative;
+    left: 600px;
+    top: -940px;
+    }
+
+    
+    .img2{
+        width: 140px; height: 90;
+         position:relative;
+    left: 600px;
+    top: -930px;
+    }
+
+
+    
+    .img3{
+        width: 140px; height: 70;
+         position:relative;
+    left: 600px;
+    top: -920px;
+    }
+
+    .ux{
+        display: inline-block;
+    position:relative;
+    left: 770px;
+    top: -1200px;
+    color: white;
+    }
+
+
+    .front{
+        display: inline-block;
+    position:relative;
+    left: 670px;
+    top: -1100px;
+    color: white;
+    }
+
+    .develop{
+        display: inline-block;
+        position:relative;
+        left: 540px;
+        top: -1025px;
+        color: white;
+    }
+
+
+    .aerow{
+        position:relative;
+        left: 1000px;
+        top: -1280px;
+        color: orange; 
+        line-height: 500%;
+    }
